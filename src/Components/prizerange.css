@@ -1,0 +1,65 @@
+.prizeslider {
+	width: 91%;
+	height: 6px;
+	background-color: rgb(162, 165, 167);
+	padding: 0 21px;
+	margin: 0 auto;
+	text-align: center;
+	float: none;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.prizeslider .thumb {
+	width: 20px;
+	height: 20px;
+	/* cursor: pointer; */
+	background-color: #f76d2b;
+	border-radius: 50%;
+	border: 2px solid black;
+	top: -22px;
+}
+
+.track-1 {
+	background-color: aquamarine;
+}
+
+.prizetext {
+	font-size: 13px;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+	margin-left: 0px;
+	/* margin-top: 10px; */
+}
+
+.prise_mn {
+	width: 100%;
+}
+
+.rsarr {
+	margin: 0 0 0 5px;
+}
+
+@media screen and (max-width: 480px) {
+	.prise_mn {
+		width: 100%;
+		background: #000;
+		display: inline-block;
+		margin-bottom: 20px;
+		margin-top: -14px;
+	}
+	.prizeslider {
+		width: 85%;
+		height: 6px;
+		background-color: rgb(162, 165, 167);
+		margin: 0 auto;
+		margin-top: 12px;
+		margin-bottom: 20px;
+	}
+	.filterbutton {
+		margin: 0 auto !important;
+		text-align: center;
+		margin-bottom: 10px !important;
+	}
+}

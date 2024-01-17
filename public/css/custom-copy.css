@@ -1,0 +1,113 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* CUSTOM CSS (ADD YOUR CSS HERE!) */
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+.b-topBar{
+    background-color: #000!important;
+}
+
+.b-topBarsocial-wrapper{
+    float:right;
+}
+.b-topBarsocial-wrapper.none{
+    float:none;
+}
+.b-topBarsocial-wrapper a{
+    float:left;
+    padding: 6px;
+    margin-right:2px;
+    color:#fff;
+    height: auto;
+}
+.b-topBarsocial-wrapper a span.fa{
+    padding:0px;
+    font-size:2rem;
+    margin-top:13px;
+}
+.b-topBarsocial-wrapper a:hover{
+    color:#f76d2b;
+}
+.tr-nav{margin-top: 40px;
+border-top: 1px solid #555;
+}
+.nav_b{
+    padding:10px 0px 4px 0px;
+}
+body{
+    margin-top:72px;    
+    background-color: #ddd;
+}
+.b-world__item img{
+    border-radius:12px!important;
+    border:2px solid #999;
+}
+.welcome-points li{
+    font-size:18px;
+}
+.m-number span{
+    color:#333;
+}
+.textkm{
+    color:#000!important;
+}
+.b-search__main-form p{
+    color:#000000;
+}
+.b-world__item p{
+    font-size:14px;
+}
+.b-world__item-val-title{
+    color:#333;
+    font-size:12px;
+    padding:4px 0 4px 0;
+}
+.b-auto__main-item {
+    overflow:hidden;
+    border-radius: 12px;
+}
+.b-auto__main-item img{
+    width: 100%;
+    transition: 0.2s all ease-in-out;
+    margin-bottom:4px;
+    border-radius:12px!important;
+    border:2px solid #999;
+}
+.b-auto__main-item img:hover{
+       /*  transform: scale(1.1); */
+       filter:brightness(50%);
+}
+.m-number{
+    color: #333!important; 
+}
+.b-featured__item-links a{
+    color: #ffffff; 
+}
+.b-auto__main-item h2 a {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.b-auto__main-item h2{
+    margin:20px 0 20px 0;
+}
+.b-auto__main-item span {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.b-auto__main-item span.separator {
+padding: 0 10px 0 10px;
+}
+
+/* b-featured-New*/
+
+.mt-20{
+    margin-top:20px;
+}
+.mt-40{
+    margin-top:40px;
+}
+
+
+
+
+

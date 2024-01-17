@@ -1,0 +1,30 @@
+/* ::-webkit-scrollbar {
+	display: none;
+}
+
+body {
+	-ms-overflow-style: none;
+}
+
+body {
+	scrollbar-width: "none";
+	/* background-color: rgb(36, 35, 35); */
+
+
+.loading-message {
+	margin-top: -100px;
+	width: 100% !important;
+	height: 1000px !important;
+}
+
+.pageloadingsize {
+	margin-left: 48% !important;
+	margin-top: 400px;
+	text-align: center;
+}
+
+.pageloadingsize1 {
+	margin-top: 400px;
+	text-align: center;
+	margin-left: 28% !important;
+}
